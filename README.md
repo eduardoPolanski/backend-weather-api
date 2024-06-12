@@ -14,7 +14,7 @@ Clone the repository from GitHub:
 
 ```bash
 
-git  clone git@github.com:eduardoPolanski/backend-weather-api.git
+git clone git@github.com:eduardoPolanski/backend-weather-api.git
 ```
 Navigate  to  the  project  directory:
 
@@ -28,7 +28,7 @@ cd backend-weather-api
 
 ```bash
 
-npm  install
+npm install
 
 ```
 
@@ -36,7 +36,7 @@ npm  install
 
 ```bash
 
-npm  start
+npm start
 
 ```
 
