@@ -14,15 +14,13 @@ Clone the repository from GitHub:
 
 ```bash
 
-git  clone <repository_url>
-
-Navigate  to  the  project  directory:
-
+git  clone git@github.com:eduardoPolanski/backend-weather-api.git
 ```
+Navigate  to  the  project  directory:
 
 ```bash
 
-cd <project_directory>
+cd backend-weather-api
 
 ```
 
